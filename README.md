@@ -1,4 +1,4 @@
-Click the link below to check the weather app know your city weather here.
+Click the link below to check the weather app, know your city weather here.
 " https://yourweatherishere.netlify.app/ "
 
 
